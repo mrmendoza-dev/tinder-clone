@@ -35,7 +35,7 @@ const profileData = [
     name: "Cindy",
     avatar: "images/profile-pics/cindy.jpg",
     age: 24,
-    bio: "Avid food fanatic. Extreme beer expert. Award-winning reader.",
+    bio: "Infuriatingly humble music practitioner. Unapologetic tv aficionado.",
     hasBeenSwiped: false,
     hasBeenLiked: false,
   },
